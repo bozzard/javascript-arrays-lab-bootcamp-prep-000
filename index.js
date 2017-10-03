@@ -40,5 +40,3 @@ var newKittens = kittens.slice(0, kittens.length - 1);
 console.log("2  return ", newKittens);
   return newKittens;
 }
-
-
